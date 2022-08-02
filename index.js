@@ -290,5 +290,5 @@ function countLettersRoundTwo(str) {
 
 
 // Q: Explain how you came to your conclusions about the space complexity of each function. 
-// ANSWER: they both depend in the size of the 
+// ANSWER: they both depend in the size of the string.
 // 
